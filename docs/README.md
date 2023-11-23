@@ -34,7 +34,7 @@ As a closed-source project, contributions to the URE repository are not accepted
 
 ## License:
 
-URE operates under a proprietary license. Please review the license agreement provided with this repository for more information.
+URE operates under the MIT License. Please review the license agreement provided with this repository for more information.
 
 ## Disclaimer:
 
