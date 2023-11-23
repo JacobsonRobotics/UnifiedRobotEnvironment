@@ -1,0 +1,10 @@
+.venv/
+.idea/
+*.egg-info
+*.DS_Store
+dist/
+build/
+_build/
+*.pyc
+.vscode
+saved_agents/

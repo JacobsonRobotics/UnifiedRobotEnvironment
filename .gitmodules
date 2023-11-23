@@ -1,0 +1,9 @@
+[submodule "simulation"]
+	path = simulation
+	url = git@github.com:JacobsonRobotics/simulation.git
+[submodule "OpenQuadruped_ROS2"]
+	path = OpenQuadruped_ROS2
+	url = git@github.com:JacobsonRobotics/OpenQuadruped_ROS2.git
+[submodule "RobotModels"]
+	path = RobotModels
+	url = git@github.com:JacobsonRobotics/RobotModels.git

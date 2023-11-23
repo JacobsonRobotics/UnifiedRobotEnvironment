@@ -1,0 +1,7 @@
+# Top Level Requirements
+
+# Simulation Submodule
+-r ../simulation/requirements.txt
+
+# ROS2 Submodules
+-r '../OpenQuadruped_ROS2/requirements.txt'
