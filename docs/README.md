@@ -20,17 +20,13 @@ To get started with URE, follow these steps:
 
 1. Clone this repository to your local machine.
 
-2. Install the necessary dependencies. We recommend creating a virtual environment for your project to manage dependencies cleanly. See docs/`requirements.txt` for requirement list.
+2. Install the necessary dependencies. We recommend creating a virtual environment for your project to manage dependencies cleanly. See `docs/requirements.txt` for requirement list.
 
 3. Begin your exploration with the provided examples. You can utilize the existing implementation for DDPG or extend the framework to use other machine learning algorithms.
 
 4. Train and evaluate your legged robot models using the PyBullet simulator.
 
 5. Deploy your trained models on real hardware or in simulation using ROS.
-
-## Credits:
-
-URE builds upon the work of Maurice Rahme's OpenQuadruped repository, offering a specialized environment for training and deploying legged robots. While URE is not an open-source project, it benefits from the valuable contributions of the open-source community.
 
 ## Contributions and Support:
 
